@@ -28,7 +28,7 @@ Gosto de aprender construindo soluções para problemas reais, principalmente en
 
 `Python` • `n8n` • `APIs REST` • `SQL` • `Linux` • `Cloud` • `IA`
 
-## 🚀 Projetos
+##  Projetos
 
 ### ⚡ Power Green Monitoring
 
