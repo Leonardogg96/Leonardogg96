@@ -6,7 +6,7 @@ $ whoami
 > 🚀 Explorando n8n, APIs e Cloud
 ```
 
-## ⚡ Sobre mim
+##  Sobre mim
 
 Formado em **Análise e Desenvolvimento de Sistemas**, atualmente desenvolvo projetos focados em **automação, IA e Python**.
 
