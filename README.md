@@ -30,7 +30,7 @@ Gosto de aprender construindo soluções para problemas reais, principalmente en
 
 ##  Projetos
 
-### ⚡ Power Green Monitoring
+###  Power Green Monitoring
 
 Sistema em **Python** desenvolvido para monitorar uma estação de recarga de veículos elétricos.
 
