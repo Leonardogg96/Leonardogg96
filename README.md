@@ -12,7 +12,7 @@ Formado em **Análise e Desenvolvimento de Sistemas**, atualmente desenvolvo pro
 
 Gosto de aprender construindo soluções para problemas reais, principalmente envolvendo **APIs, integrações e automação de processos**.
 
-## 🧰 Stack
+##  Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
