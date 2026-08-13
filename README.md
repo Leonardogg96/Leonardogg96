@@ -40,7 +40,7 @@ Sistema em **Python** desenvolvido para monitorar uma estação de recarga de ve
 
 ## 🌐 Contato
 
-<a href="https://www.linkedin.com/in/leonardogoncalves31">
+<a href="www.linkedin.com/in/leonardogonçalves31">
   <img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Gonzaga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
